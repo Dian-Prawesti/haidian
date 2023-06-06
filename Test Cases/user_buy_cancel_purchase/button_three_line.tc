@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>tiga titik di kanan atas</description>
+   <name>button_three_line</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66b4303b-3bce-479d-8a3c-3590538bb58e</testCaseGuid>
+</TestCaseEntity>
